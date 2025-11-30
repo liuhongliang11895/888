@@ -6,14 +6,14 @@
     { "name": "原求", "url": "https://s.url99.me/9znb3oux", "active": false },
     { "name": "李种", "url": "https://s.url99.me/64ypmrrc", "active": false },
     { "name": "星哥", "url": "https://s.url99.me/6rhmqo1f", "active": false },
-    { "name": "贝贝", "url": "https://s.url99.me/b6mjvl9p", "active": true },
+    { "name": "贝贝", "url": "https://s.url99.me/b6mjvl9p", "active": false },
     { "name": "阳荣", "url": "https://s.url99.me/ksw2tp0e", "active": true },
     { "name": "秀玉", "url": "https://s.url99.me/wdgy0xos", "active": false },
     { "name": "秀丽", "url": "https://s.url99.me/rk88c62h", "active": false },
     { "name": "小八", "url": "https://s.url99.me/we7waepo", "active": false },
     { "name": "富井", "url": "https://s.url99.me/ss6sroia", "active": false },
     { "name": "福哥", "url": "https://s.url99.me/f84g2oz1", "active": false },
-    { "name": "小晶", "url": "https://s.url99.me/cdweoplf", "active": true },
+    { "name": "小晶", "url": "https://s.url99.me/cdweoplf", "active": false },
     { "name": "温柔", "url": "https://s.url99.me/2s86rq2v", "active": true },
     { "name": "才能", "url": "https://s.url99.me/ecn0531n", "active": false },
     { "name": "榴莲", "url": "https://s.url99.me/7povy3ve", "active": false },
@@ -21,6 +21,7 @@
     { "name": "波波", "url": "https://s.url99.me/0srr3zkz", "active": false }
   ]
 }
+
 
 
 
