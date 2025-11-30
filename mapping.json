@@ -10,7 +10,7 @@
     { "name": "阳荣", "url": "https://s.url99.me/ksw2tp0e", "active": true },
     { "name": "秀玉", "url": "https://s.url99.me/wdgy0xos", "active": true },
     { "name": "秀丽", "url": "https://s.url99.me/rk88c62h", "active": true },
-    { "name": "小八", "url": "https://s.url99.me/we7waepo", "active": true },
+    { "name": "小八", "url": "https://s.url99.me/we7waepo", "active": false },
     { "name": "富井", "url": "https://s.url99.me/ss6sroia", "active": true },
     { "name": "福哥", "url": "https://s.url99.me/f84g2oz1", "active": true },
     { "name": "小晶", "url": "https://s.url99.me/cdweoplf", "active": true },
@@ -21,6 +21,7 @@
     { "name": "波波", "url": "https://s.url99.me/0srr3zkz", "active": true }
   ]
 }
+
 
 
 
