@@ -13,7 +13,7 @@
     { "name": "高智", "url": "https://s.url99.me/5nt6du5p", "active": true },
     { "name": "法拉利", "url": "https://s.url99.me/pbq1msfb", "active": true },
     { "name": "保光", "url": "https://s.url99.me/fchohho6", "active": true },
-    { "name": "聪明", "url": "https://s.url99.me/mainn0mc", "active": true },
+    { "name": "聪明", "url": "https://s.url99.me/mainn0mc", "active": false },
     { "name": "辣椒", "url": "https://s.url99.me/qxo71do4", "active": false },
     { "name": "阿幸", "url": "https://s.url99.me/7xegukm2", "active": true },
     { "name": "荷兰花", "url": "https://s.url99.me/4x2iiih6", "active": false },
@@ -27,6 +27,7 @@
     { "name": "善达", "url": "https://s.url99.me/4iemuv90", "active": false }
   ]
 }
+
 
 
 
