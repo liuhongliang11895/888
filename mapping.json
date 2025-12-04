@@ -3,7 +3,7 @@
     { "name": "阿比", "url": "https://s.url99.me/1wb7ihf1", "active": false },
     { "name": "原求", "url": "https://s.url99.me/9znb3oux", "active": false },
     { "name": "星哥", "url": "https://s.url99.me/6rhmqo1f", "active": true },
-    { "name": "贝贝", "url": "https://s.url99.me/b6mjvl9p", "active": true },
+    { "name": "贝贝", "url": "https://s.url99.me/b6mjvl9p", "active": false },
     { "name": "农达", "url": "https://s.url99.me/t5dhugm5", "active": false },
     { "name": "秀玉", "url": "https://s.url99.me/wdgy0xos", "active": false },
     { "name": "小王", "url": "https://s.url99.me/2fn1xyvu", "active": false },
@@ -30,6 +30,7 @@
     { "name": "善达", "url": "https://s.url99.me/4iemuv90", "active": false }
   ]
 }
+
 
 
 
