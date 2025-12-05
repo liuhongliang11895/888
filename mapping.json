@@ -17,7 +17,7 @@
     { "name": "万能", "url": "https://s.url99.me/b9xkql38", "active": true },
     { "name": "淑莉", "url": "https://s.url99.me/mcmaoglw", "active": true },
     { "name": "小乐", "url": "https://s.url99.me/4f2qjf69", "active": true },
-    { "name": "沙卡达", "url": "https://s.url99.me/ei65l6n1", "active": true },
+    { "name": "沙卡达", "url": "https://s.url99.me/ei65l6n1", "active": false },
     { "name": "聪明", "url": "https://s.url99.me/mainn0mc", "active": true },
     { "name": "法拉利", "url": "https://s.url99.me/pbq1msfb", "active": true },
     { "name": "保光", "url": "https://s.url99.me/fchohho6", "active": true },
@@ -35,4 +35,5 @@
     { "name": "善达", "url": "https://s.url99.me/4iemuv90", "active": true }
   ]
 }
+
 
