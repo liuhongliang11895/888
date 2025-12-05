@@ -22,7 +22,7 @@
     { "name": "法拉利", "url": "https://s.url99.me/pbq1msfb", "active": false },
     { "name": "保光", "url": "https://s.url99.me/fchohho6", "active": false },
     { "name": "二弟", "url": "https://s.url99.me/vza7y97b", "active": false },
-    { "name": "辣椒", "url": "https://s.url99.me/qxo71do4", "active": true },
+    { "name": "辣椒", "url": "https://s.url99.me/qxo71do4", "active": false },
     { "name": "阿幸", "url": "https://s.url99.me/7xegukm2", "active": true },
     { "name": "荷兰花", "url": "https://s.url99.me/4x2iiih6", "active": false },
     { "name": "秀丽", "url": "https://s.url99.me/rk88c62h", "active": false },
@@ -35,6 +35,7 @@
     { "name": "善达", "url": "https://s.url99.me/4iemuv90", "active": true }
   ]
 }
+
 
 
 
