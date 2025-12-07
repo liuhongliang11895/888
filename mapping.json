@@ -27,7 +27,7 @@
     { "name": "善达", "url": "https://s.url99.me/4iemuv90", "active": false },
     { "name": "飞天", "url": "https://s.url99.me/hknpkh0q", "active": true },
     { "name": "提克", "url": "https://s.url99.me/0u6ajr28", "active": false },
-    { "name": "埋达", "url": "https://s.url99.me/p8d3d4fa", "active": true },
+    { "name": "埋达", "url": "https://s.url99.me/p8d3d4fa", "active": false },
     { "name": "富井", "url": "https://s.url99.me/ss6sroia", "active": false },
     { "name": "福哥", "url": "https://s.url99.me/f84g2oz1", "active": true },
     { "name": "温柔", "url": "https://s.url99.me/2s86rq2v", "active": true },
@@ -35,6 +35,7 @@
     { "name": "榴莲", "url": "https://s.url99.me/7povy3ve", "active": false }
   ]
 }
+
 
 
 
