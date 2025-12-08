@@ -14,7 +14,7 @@
     { "name": "美琪", "url": "https://s.url99.me/0e285rr2", "active": true },
     { "name": "西风", "url": "https://s.url99.me/llq6yixi", "active": true },
     { "name": "如帝", "url": "https://s.url99.me/h2xxpscu", "active": true },
-    { "name": "二弟", "url": "https://s.url99.me/vza7y97b", "active": true },
+    { "name": "二弟", "url": "https://s.url99.me/vza7y97b", "active": false },
     { "name": "辣椒", "url": "https://s.url99.me/qxo71do4", "active": true },
     { "name": "妮妮", "url": "https://s.url99.me/swboizt3", "active": true },
     { "name": "明仙", "url": "https://s.url99.me/kkgghhk1", "active": true },
@@ -31,6 +31,7 @@
     { "name": "榴莲", "url": "https://s.url99.me/7povy3ve", "active": true }
   ]
 }
+
 
 
 
