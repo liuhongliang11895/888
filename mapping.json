@@ -10,7 +10,7 @@
     { "name": "进长", "url": "https://s.url99.me/jfgwb7a7", "active": false },
     { "name": "宝马", "url": "https://s.url99.me/pyxxcfon", "active": false },
     { "name": "大毛", "url": "https://s.url99.me/uq54eygy", "active": false },
-    { "name": "法拉利", "url": "https://s.url99.me/pbq1msfb", "active": true },
+    { "name": "法拉利", "url": "https://s.url99.me/pbq1msfb", "active": false },
     { "name": "美琪", "url": "https://s.url99.me/0e285rr2", "active": false },
     { "name": "西风", "url": "https://s.url99.me/llq6yixi", "active": false },
     { "name": "如帝", "url": "https://s.url99.me/h2xxpscu", "active": false },
@@ -31,6 +31,7 @@
     { "name": "榴莲", "url": "https://s.url99.me/7povy3ve", "active": false }
   ]
 }
+
 
 
 
