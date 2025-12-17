@@ -6,7 +6,7 @@
     { "url": "https://s.url99.me/b6mjvl9p", "active": true, "name": "贝贝" },
     { "url": "https://s.url99.me/llq6yixi", "active": false, "name": "西风" },
     { "url": "https://s.url99.me/we7waepo", "active": true, "name": "小八" },
-    { "url": "https://s.url99.me/ss6sroia", "active": true, "name": "富井" },
+    { "url": "https://s.url99.me/ss6sroia", "active": false, "name": "富井" },
     { "url": "https://s.url99.me/f091qh47", "active": false, "name": "小尼" },
     { "url": "https://s.url99.me/t5dhugm5", "active": false, "name": "农达" },
     { "url": "https://s.url99.me/wdgy0xos", "active": false, "name": "秀玉" },
@@ -19,6 +19,7 @@
     { "url": "https://s.url99.me/jxznb42k", "active": false, "name": "红蝴蝶" }
   ]
 }
+
 
 
 
