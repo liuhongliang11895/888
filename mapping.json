@@ -4,7 +4,7 @@
     { "url": "https://s.url99.me/9znb3oux", "active": true, "name": "原求" },
     { "url": "https://s.url99.me/6rhmqo1f", "active": true, "name": "星哥" },
     { "url": "https://s.url99.me/b6mjvl9p", "active": true, "name": "贝贝" },
-    { "url": "https://s.url99.me/qxo71do4", "active": true, "name": "辣椒" },
+    { "url": "https://s.url99.me/qxo71do4", "active": false, "name": "辣椒" },
     { "url": "https://s.url99.me/we7waepo", "active": true, "name": "小八" },
     { "url": "https://s.url99.me/gchxgozj", "active": true, "name": "大白菜" },
     { "url": "https://s.url99.me/9mp2zqn6", "active": true, "name": "您望" },
@@ -22,6 +22,7 @@
     { "url": "https://s.url99.me/7povy3ve", "active": true, "name": "榴莲" }
   ]
 }
+
 
 
 
