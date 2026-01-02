@@ -1,6 +1,6 @@
 {
   "links": [
-    { "url": "https://diversion.salesmartly.com/split/whatsapp/fes79u", "active": true, "name": "米丽" },
+    { "url": "https://diversion.salesmartly.com/split/whatsapp/fes79u", "active": false, "name": "米丽" },
     { "url": "https://diversion.salesmartly.com/split/whatsapp/ff29ku", "active": false, "name": "尼达" },
     { "url": "https://diversion.salesmartly.com/split/whatsapp/ff20ij", "active": true, "name": "一千" },
     { "url": "https://diversion.salesmartly.com/split/whatsapp/fhcj31", "active": true, "name": "大猫" },
@@ -9,6 +9,7 @@
     { "url": "https://diversion.salesmartly.com/split/whatsapp/fhce1q", "active": true, "name": "金红" }
   ]
 }
+
 
 
 
