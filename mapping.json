@@ -14,10 +14,11 @@
     { "name": "啊糖", "url": "https://diversion.salesmartly.com/split/whatsapp/ff26k3", "active": true },
     { "name": "老汪", "url": "https://diversion.salesmartly.com/split/whatsapp/fhco4b", "active": true },
     { "name": "啊西", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2nog", "active": true },
-    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": true },
+    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": false },
     { "name": "安发", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2mo7", "active": true }
   ]
 }
+
 
 
 
