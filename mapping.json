@@ -1,27 +1,28 @@
 {
   "links": [
-    { "name": "米丽", "url": "https://diversion.salesmartly.com/split/whatsapp/fes79u", "active": true },
-    { "name": "尼达", "url": "https://diversion.salesmartly.com/split/whatsapp/ff29ku", "active": true },
-    { "name": "一千", "url": "https://diversion.salesmartly.com/split/whatsapp/ff20ij", "active": true },
+    { "name": "米丽", "url": "https://diversion.salesmartly.com/split/whatsapp/fes79u", "active": false },
+    { "name": "尼达", "url": "https://diversion.salesmartly.com/split/whatsapp/ff29ku", "active": false },
+    { "name": "一千", "url": "https://diversion.salesmartly.com/split/whatsapp/ff20ij", "active": false },
     { "name": "大海", "url": "https://diversion.salesmartly.com/split/whatsapp/fes18b", "active": true },
     { "name": "玫瑰", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1nfg", "active": true },
-    { "name": "小五", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1sgq", "active": true },
-    { "name": "宾利", "url": "https://diversion.salesmartly.com/split/whatsapp/fhcn42", "active": true },
+    { "name": "小五", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1sgq", "active": false },
+    { "name": "宾利", "url": "https://diversion.salesmartly.com/split/whatsapp/fhcn42", "active": false },
     { "name": "童仆", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1uh9", "active": true },
     { "name": "大猫", "url": "https://diversion.salesmartly.com/split/whatsapp/fhcj31", "active": true },
     { "name": "金红", "url": "https://diversion.salesmartly.com/split/whatsapp/fhce1q", "active": true },
-    { "name": "萨萨", "url": "https://diversion.salesmartly.com/split/whatsapp/fhb2ow", "active": true },
-    { "name": "啊糖", "url": "https://diversion.salesmartly.com/split/whatsapp/ff26k3", "active": true },
-    { "name": "老汪", "url": "https://diversion.salesmartly.com/split/whatsapp/fhco4b", "active": true },
+    { "name": "萨萨", "url": "https://diversion.salesmartly.com/split/whatsapp/fhb2ow", "active": false },
+    { "name": "啊糖", "url": "https://diversion.salesmartly.com/split/whatsapp/ff26k3", "active": false },
+    { "name": "老汪", "url": "https://diversion.salesmartly.com/split/whatsapp/fhco4b", "active": false },
     { "name": "啊西", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2nog", "active": true },
     { "name": "开心", "url": "https://diversion.salesmartly.com/split/whatsapp/fesrf0", "active": true },
-    { "name": "业基", "url": "https://diversion.salesmartly.com/split/whatsapp/fhck3a", "active": true },
+    { "name": "业基", "url": "https://diversion.salesmartly.com/split/whatsapp/fhck3a", "active": false },
     { "name": "安发", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2mo7", "active": true },
     { "name": "小鹏", "url": "https://s.url99.me/cyhdfvz1", "active": true },
     { "name": "阿夫", "url": "https://s.url99.me/d793jzb8", "active": true },
     { "name": "秀萍", "url": "https://s.url99.me/vn9b8z1w", "active": true }
   ]
 }
+
 
 
 
