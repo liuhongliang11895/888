@@ -5,7 +5,7 @@
     { "name": "大海", "url": "https://diversion.salesmartly.com/split/whatsapp/fes18b", "active": true },
     { "name": "玫瑰", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1nfg", "active": true },
     { "name": "小五", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1sgq", "active": true },
-    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": true },
+    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": false },
     { "name": "童仆", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1uh9", "active": false },
     { "name": "老汪", "url": "https://diversion.salesmartly.com/split/whatsapp/fhco4b", "active": true },
     { "name": "金红", "url": "https://diversion.salesmartly.com/split/whatsapp/fhce1q", "active": false },
@@ -18,6 +18,7 @@
     { "name": "那八", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1xi1", "active": true }
   ]
 }
+
 
 
 
