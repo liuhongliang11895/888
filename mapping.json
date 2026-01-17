@@ -7,7 +7,7 @@
     { "name": "宾利", "url": "https://diversion.salesmartly.com/split/whatsapp/fhcn42", "active": true },
     { "name": "尼达", "url": "https://diversion.salesmartly.com/split/whatsapp/ff29ku", "active": true },
     { "name": "小五", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1sgq", "active": false },
-    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": true },
+    { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": false },
     { "name": "星哥", "url": "https://diversion.salesmartly.com/split/whatsapp/fhcd1h", "active": true },
     { "name": "童仆", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1uh9", "active": false },
     { "name": "老汪", "url": "https://diversion.salesmartly.com/split/whatsapp/fhco4b", "active": true },
@@ -32,6 +32,7 @@
     { "name": "飞龙", "url": "https://s.url99.me/3tv660kk", "active": false }
   ]
 }
+
 
 
 
