@@ -2,8 +2,8 @@
   "links": [
     { "name": "米丽", "url": "https://diversion.salesmartly.com/split/whatsapp/fes79u", "active": false },
     { "name": "一千", "url": "https://diversion.salesmartly.com/split/whatsapp/ff20ij", "active": false },
-    { "name": "大海", "url": "https://diversion.salesmartly.com/split/whatsapp/fes18b", "active": true },
-    { "name": "玫瑰", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1nfg", "active": true },
+    { "name": "大海", "url": "https://diversion.salesmartly.com/split/whatsapp/fes18b", "active": false },
+    { "name": "玫瑰", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1nfg", "active": false },
     { "name": "尼达", "url": "https://diversion.salesmartly.com/split/whatsapp/ff29ku", "active": false },
     { "name": "小五", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1sgq", "active": false },
     { "name": "中龙", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2kno", "active": false },
@@ -15,7 +15,7 @@
     { "name": "春天", "url": "https://diversion.salesmartly.com/split/whatsapp/fhayo5", "active": false },
     { "name": "啊糖", "url": "https://diversion.salesmartly.com/split/whatsapp/ff26k3", "active": false },
     { "name": "啊西", "url": "https://diversion.salesmartly.com/split/whatsapp/ff2nog", "active": false },
-    { "name": "萨萨", "url": "https://diversion.salesmartly.com/split/whatsapp/fhb2ow", "active": true },
+    { "name": "萨萨", "url": "https://diversion.salesmartly.com/split/whatsapp/fhb2ow", "active": false },
     { "name": "事妹", "url": "https://diversion.salesmartly.com/split/whatsapp/feswga", "active": false },
     { "name": "那八", "url": "https://diversion.salesmartly.com/split/whatsapp/ff1xi1", "active": false },
     { "name": "宝马", "url": "https://s.url99.me/lxwe2rov", "active": true },
@@ -31,6 +31,7 @@
     { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": false }
   ]
 }
+
 
 
 
