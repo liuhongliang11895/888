@@ -22,7 +22,7 @@
     { "name": "利儿", "url": "https://s.url99.me/345l97ah", "active": true },
     { "name": "赵盈", "url": "https://s.url99.me/91zgjvp0", "active": false },
     { "name": "光京", "url": "https://s.url99.me/1rjlx7qe", "active": true },
-    { "name": "评判", "url": "https://s.url99.me/6dgbjan4", "active": true },
+    { "name": "评判", "url": "https://s.url99.me/6dgbjan4", "active": false },
     { "name": "机家", "url": "https://s.url99.me/etv2l49s", "active": false },
     { "name": "西友", "url": "https://s.url99.me/s7d6xf2q", "active": false },
     { "name": "东东", "url": "https://s.url99.me/x37t4q7z", "active": false },
@@ -31,6 +31,7 @@
     { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": false }
   ]
 }
+
 
 
 
