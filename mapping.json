@@ -9,7 +9,7 @@
     { "name": "金红", "url": "https://s.url99.me/u74ple8r", "active": true },
     { "name": "星哥", "url": "https://s.url99.me/ft78w7s7", "active": true },
     { "name": "童仆", "url": "https://s.url99.me/llk88n1x", "active": true },
-    { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": true },
+    { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": false },
     { "name": "大猫", "url": "https://s.url99.me/xs4a9wkk", "active": true },
     { "name": "春天", "url": "https://s.url99.me/qb6ip4ma", "active": true },
     { "name": "啊糖", "url": "https://s.url99.me/34o2kqka", "active": true },
@@ -39,6 +39,7 @@
     { "name": "诺诺", "url": "https://s.url99.me/cyn0fcf7", "active": true }
   ]
 }
+
 
 
 
