@@ -12,8 +12,8 @@
     { "name": "大猫", "url": "https://s.url99.me/xs4a9wkk", "active": true },
     { "name": "啊西", "url": "https://s.url99.me/5ycdr8wf", "active": true },
     { "name": "小五", "url": "https://s.url99.me/bc9wxkon", "active": true },
-    { "name": "光京", "url": "https://s.url99.me/1rjlx7qe", "active": true },
-    { "name": "华华", "url": "https://s.url99.me/o65lx9uz", "active": true },
+    { "name": "光京", "url": "https://s.url99.me/1rjlx7qe", "active": false },
+    { "name": "华华", "url": "https://s.url99.me/o65lx9uz", "active": false },
     { "name": "肖颜", "url": "https://s.url99.me/elveoequ", "active": true },
     { "name": "安发", "url": "https://s.url99.me/4wixzs6k", "active": true },
     { "name": "事妹", "url": "https://s.url99.me/9alyddqk", "active": true },
@@ -28,6 +28,7 @@
     { "name": "小肯", "url": "https://s.url99.me/0sohg85n", "active": true }
   ]
 }
+
 
 
 
