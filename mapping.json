@@ -11,7 +11,7 @@
     { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": true },
     { "name": "安发", "url": "https://s.url99.me/4wixzs6k", "active": false },
     { "name": "事妹", "url": "https://s.url99.me/9alyddqk", "active": true },
-    { "name": "那八", "url": "https://s.url99.me/99w0efjz", "active": true },
+    { "name": "那八", "url": "https://s.url99.me/99w0efjz", "active": false },
     { "name": "狼王", "url": "https://s.url99.me/tqzv1ru5", "active": false },
     { "name": "春天", "url": "https://s.url99.me/qb6ip4ma", "active": false },
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true },
@@ -22,6 +22,7 @@
     { "name": "小商", "url": "https://s.url99.me/9fxu01z5", "active": true }
   ]
 }
+
 
 
 
