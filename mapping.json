@@ -3,7 +3,7 @@
     { "name": "米丽", "url": "https://s.url99.me/a4ew95gn", "active": true },
     { "name": "大海", "url": "https://s.url99.me/bvk7fvhj", "active": true },
     { "name": "尼达", "url": "https://s.url99.me/7ngr9xhx", "active": true },
-    { "name": "坤高尔", "url": "https://s.url99.me/9840yz8k", "active": true },
+    { "name": "坤高尔", "url": "https://s.url99.me/9840yz8k", "active": false },
     { "name": "童仆", "url": "https://s.url99.me/llk88n1x", "active": true },
     { "name": "大猫", "url": "https://s.url99.me/xs4a9wkk", "active": true },
     { "name": "啊西", "url": "https://s.url99.me/5ycdr8wf", "active": true },
@@ -22,6 +22,7 @@
     { "name": "小商", "url": "https://s.url99.me/9fxu01z5", "active": true }
   ]
 }
+
 
 
 
