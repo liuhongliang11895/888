@@ -16,7 +16,7 @@
     { "name": "总能", "url": "https://s.url99.me/leh2kiuq", "active": true },
     { "name": "评判", "url": "https://s.url99.me/6dgbjan4", "active": true },
     { "name": "小龙", "url": "https://s.url99.me/rbg0yy1d", "active": true },
-    { "name": "财运", "url": "https://s.url99.me/h824c81t", "active": true },
+    { "name": "财运", "url": "https://s.url99.me/h824c81t", "active": false },
     { "name": "萨萨", "url": "https://s.url99.me/4uuqk9l1", "active": true },
     { "name": "快速", "url": "https://s.url99.me/cuo75sv7", "active": true },
     { "name": "小风", "url": "https://s.url99.me/j6wg3ifz", "active": true },
@@ -30,6 +30,7 @@
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true }
   ]
 }
+
 
 
 
