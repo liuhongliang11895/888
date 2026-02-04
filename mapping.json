@@ -18,7 +18,7 @@
     { "name": "小石", "url": "https://s.url99.me/a3c8h058", "active": true },
     { "name": "评判", "url": "https://s.url99.me/6dgbjan4", "active": false },
     { "name": "财运", "url": "https://s.url99.me/h824c81t", "active": true },
-    { "name": "萨萨", "url": "https://s.url99.me/4uuqk9l1", "active": true },
+    { "name": "萨萨", "url": "https://s.url99.me/4uuqk9l1", "active": false },
     { "name": "快速", "url": "https://s.url99.me/cuo75sv7", "active": true },
     { "name": "小风", "url": "https://s.url99.me/j6wg3ifz", "active": false },
     { "name": "玛努", "url": "https://s.url99.me/qj9cch41", "active": false },
@@ -32,6 +32,7 @@
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true }
   ]
 }
+
 
 
 
