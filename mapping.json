@@ -25,7 +25,7 @@
     { "name": "财运", "url": "https://s.url99.me/h824c81t", "active": true },
     { "name": "快速", "url": "https://s.url99.me/cuo75sv7", "active": true },
     { "name": "小风", "url": "https://s.url99.me/j6wg3ifz", "active": true },
-    { "name": "金红", "url": "https://s.url99.me/u74ple8r", "active": true },
+    { "name": "金红", "url": "https://s.url99.me/u74ple8r", "active": false },
     { "name": "李东", "url": "https://s.url99.me/f5zmmg8z", "active": false },
     { "name": "小兔", "url": "https://s.url99.me/wa64ik5a", "active": true },
     { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": true },
@@ -35,6 +35,7 @@
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true }
   ]
 }
+
 
 
 
