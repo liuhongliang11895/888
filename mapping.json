@@ -8,7 +8,7 @@
     { "name": "优优", "url": "https://s.url99.me/i8dmifo6", "active": true },
     { "name": "天雷", "url": "https://s.url99.me/3vnmos4q", "active": true },
     { "name": "你克", "url": "https://s.url99.me/v45brqqx", "active": true },
-    { "name": "诺诺", "url": "https://s.url99.me/cau81u8m", "active": true },
+    { "name": "诺诺", "url": "https://s.url99.me/cau81u8m", "active": false },
     { "name": "曹毛", "url": "https://s.url99.me/fmzcx5uo", "active": true },
     { "name": "华华", "url": "https://s.url99.me/5for0m9y", "active": true },
     { "name": "祥宏", "url": "https://s.url99.me/l259641b", "active": true },
@@ -35,6 +35,7 @@
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true }
   ]
 }
+
 
 
 
