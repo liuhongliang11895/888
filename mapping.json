@@ -20,7 +20,7 @@
     { "name": "咖呀优", "url": "https://s.url99.me/192y40c1", "active": true },
     { "name": "事妹", "url": "https://s.url99.me/9alyddqk", "active": true },
     { "name": "达安", "url": "https://s.url99.me/m51yndv2", "active": true },
-    { "name": "安发", "url": "https://s.url99.me/4wixzs6k", "active": true },
+    { "name": "安发", "url": "https://s.url99.me/4wixzs6k", "active": false },
     { "name": "评判", "url": "https://s.url99.me/6dgbjan4", "active": true },
     { "name": "财运", "url": "https://s.url99.me/h824c81t", "active": true },
     { "name": "快速", "url": "https://s.url99.me/cuo75sv7", "active": true },
@@ -35,6 +35,7 @@
     { "name": "开心", "url": "https://s.url99.me/1nudgbkt", "active": true }
   ]
 }
+
 
 
 
