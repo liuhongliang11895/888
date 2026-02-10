@@ -27,7 +27,7 @@
     { "name": "青菜", "url": "https://s.url99.me/bsbdvdl0", "active": true },
     { "name": "有望", "url": "https://s.url99.me/3c8c0yng", "active": true },
     { "name": "索菲亞", "url": "https://s.url99.me/frxcc4zm", "active": true },
-    { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": true },
+    { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": false },
     { "name": "妮儿", "url": "https://s.url99.me/fbtwwuh0", "active": true },
     { "name": "机家", "url": "https://s.url99.me/c4p6n8lb", "active": true },
     { "name": "陈光", "url": "https://s.url99.me/288ij4gd", "active": true },
@@ -37,6 +37,7 @@
     { "name": "莫莫", "url": "https://s.url99.me/2pnn35sy", "active": true }
   ]
 }
+
 
 
 
