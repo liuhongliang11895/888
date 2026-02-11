@@ -26,7 +26,7 @@
     { "name": "小雪", "url": "https://s.url99.me/16p6nnau", "active": false },
     { "name": "修缘", "url": "https://s.url99.me/owdg1snz", "active": false },
     { "name": "索菲亞", "url": "https://s.url99.me/frxcc4zm", "active": false },
-    { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": true },
+    { "name": "波昆", "url": "https://s.url99.me/vxfv6kvt", "active": false },
     { "name": "机家", "url": "https://s.url99.me/c4p6n8lb", "active": false },
     { "name": "陈光", "url": "https://s.url99.me/288ij4gd", "active": false },
     { "name": "明亮", "url": "https://s.url99.me/vmaeub5o", "active": false },
@@ -38,6 +38,7 @@
     { "name": "二郎", "url": "https://s.url99.me/qjm1m5cy", "active": true }
   ]
 }
+
 
 
 
