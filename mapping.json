@@ -13,7 +13,7 @@
     { "name": "啊西", "url": "https://s.url99.me/5ycdr8wf", "active": true },
     { "name": "宝马", "url": "https://s.url99.me/fqoy5c1n", "active": false },
     { "name": "吉娜", "url": "https://s.url99.me/om87ww9n", "active": false },
-    { "name": "玫瑰", "url": "https://s.url99.me/m65j9grz", "active": true },
+    { "name": "玫瑰", "url": "https://s.url99.me/m65j9grz", "active": false },
     { "name": "纳雷斯", "url": "https://s.url99.me/u94saly9", "active": false },
     { "name": "丽香", "url": "https://s.url99.me/8xrbk0zw", "active": false },
     { "name": "萨兰", "url": "https://s.url99.me/mxw2nqfi", "active": true },
@@ -22,6 +22,7 @@
     { "name": "橙子", "url": "https://s.url99.me/el7mqv81", "active": true }
   ]
 }
+
 
 
 
