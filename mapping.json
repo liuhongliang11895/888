@@ -16,7 +16,7 @@
     { "name": "熠熠", "url": "https://s.url99.me/rd62s31o", "active": true },
     { "name": "小飞", "url": "https://s.url99.me/1gd2gyv7", "active": true },
     { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": true },
-    { "name": "纳雷斯", "url": "https://s.url99.me/u94saly9", "active": true },
+    { "name": "纳雷斯", "url": "https://s.url99.me/u94saly9", "active": false },
     { "name": "丽香", "url": "https://s.url99.me/8xrbk0zw", "active": true },
     { "name": "萨兰", "url": "https://s.url99.me/mxw2nqfi", "active": true },
     { "name": "一千", "url": "https://s.url99.me/0e4mgnbq", "active": true },
@@ -24,6 +24,7 @@
     { "name": "橙子", "url": "https://s.url99.me/el7mqv81", "active": true }
   ]
 }
+
 
 
 
