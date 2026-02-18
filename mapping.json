@@ -14,7 +14,7 @@
     { "name": "宝马", "url": "https://s.url99.me/fqoy5c1n", "active": false },
     { "name": "绷缝", "url": "https://s.url99.me/6xwhyog5", "active": false },
     { "name": "青菜", "url": "https://s.url99.me/bsbdvdl0", "active": true },
-    { "name": "玫瑰", "url": "https://s.url99.me/m65j9grz", "active": true },
+    { "name": "玫瑰", "url": "https://s.url99.me/m65j9grz", "active": false },
     { "name": "西友", "url": "https://s.url99.me/a9uj6h7x", "active": true },
     { "name": "丽香", "url": "https://s.url99.me/8xrbk0zw", "active": false },
     { "name": "一千", "url": "https://s.url99.me/0e4mgnbq", "active": false },
@@ -22,6 +22,7 @@
     { "name": "评判", "url": "https://s.url99.me/5xocb8pe", "active": false }
   ]
 }
+
 
 
 
