@@ -7,7 +7,7 @@
     { "name": "达安", "url": "https://s.url99.me/m51yndv2", "active": false },
     { "name": "莹莹", "url": "https://s.url99.me/h5uqqqho", "active": true },
     { "name": "明治", "url": "https://s.url99.me/ed57m1m8", "active": false },
-    { "name": "崩亚达", "url": "https://s.url99.me/kzka16yb", "active": true },
+    { "name": "崩亚达", "url": "https://s.url99.me/kzka16yb", "active": false },
     { "name": "诺诺", "url": "https://s.url99.me/fro6j5im", "active": false },
     { "name": "索菲亞", "url": "https://s.url99.me/frxcc4zm", "active": true },
     { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": false },
@@ -34,6 +34,7 @@
     { "name": "尼达", "url": "https://s.url99.me/cwyv3j34", "active": true }
   ]
 }
+
 
 
 
