@@ -10,7 +10,7 @@
     { "name": "熠熠", "url": "https://s.url99.me/rd62s31o", "active": true },
     { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": false },
     { "name": "老汪", "url": "https://s.url99.me/cue1r8hj", "active": false },
-    { "name": "索菲亞", "url": "https://s.url99.me/frxcc4zm", "active": true },
+    { "name": "索菲亞", "url": "https://s.url99.me/frxcc4zm", "active": false },
     { "name": "马老", "url": "https://s.url99.me/2e72jvks", "active": false },
     { "name": "谁哈", "url": "https://s.url99.me/j19fcjwa", "active": false },
     { "name": "张云", "url": "https://s.url99.me/c2z54mal", "active": true },
@@ -32,6 +32,7 @@
     { "name": "评判", "url": "https://s.url99.me/5xocb8pe", "active": true }
   ]
 }
+
 
 
 
