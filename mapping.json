@@ -12,7 +12,7 @@
     { "name": "万达纳", "url": "https://s.url99.me/7na9vgsj", "active": true },
     { "name": "小林", "url": "https://s.url99.me/rkwvykg2", "active": true },
     { "name": "吉祥", "url": "https://s.url99.me/f8m0kqpu", "active": true },
-    { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": true },
+    { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": false },
     { "name": "华华", "url": "https://s.url99.me/5for0m9y", "active": true },
     { "name": "背郎", "url": "https://s.url99.me/p4fjoi8k", "active": true },
     { "name": "阿商", "url": "https://s.url99.me/0azgia7z", "active": false },
@@ -32,6 +32,7 @@
     { "name": "评判", "url": "https://s.url99.me/5xocb8pe", "active": false }
   ]
 }
+
 
 
 
