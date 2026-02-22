@@ -14,7 +14,7 @@
     { "name": "吉祥", "url": "https://s.url99.me/f8m0kqpu", "active": false },
     { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": false },
     { "name": "华华", "url": "https://s.url99.me/5for0m9y", "active": false },
-    { "name": "背郎", "url": "https://s.url99.me/p4fjoi8k", "active": true },
+    { "name": "背郎", "url": "https://s.url99.me/p4fjoi8k", "active": false },
     { "name": "阿商", "url": "https://s.url99.me/0azgia7z", "active": false },
     { "name": "小李", "url": "https://s.url99.me/skyrea64", "active": false },
     { "name": "小张", "url": "https://s.url99.me/vnxhwjnz", "active": false },
@@ -25,13 +25,14 @@
     { "name": "啊西", "url": "https://s.url99.me/5ycdr8wf", "active": false },
     { "name": "宝马", "url": "https://s.url99.me/fqoy5c1n", "active": false },
     { "name": "绷缝", "url": "https://s.url99.me/6xwhyog5", "active": false },
-    { "name": "青菜", "url": "https://s.url99.me/bsbdvdl0", "active": false },
-    { "name": "丽香", "url": "https://s.url99.me/8xrbk0zw", "active": false },
-    { "name": "一千", "url": "https://s.url99.me/0e4mgnbq", "active": false },
-    { "name": "按你", "url": "https://s.url99.me/sdpfpc0v", "active": false },
-    { "name": "评判", "url": "https://s.url99.me/5xocb8pe", "active": false }
+    { "name": "青菜", "url": "https://s.url99.me/bsbdvdl0", "active": true },
+    { "name": "丽香", "url": "https://s.url99.me/8xrbk0zw", "active": true },
+    { "name": "一千", "url": "https://s.url99.me/0e4mgnbq", "active": true },
+    { "name": "按你", "url": "https://s.url99.me/sdpfpc0v", "active": true },
+    { "name": "评判", "url": "https://s.url99.me/5xocb8pe", "active": true }
   ]
 }
+
 
 
 
