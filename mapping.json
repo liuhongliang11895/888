@@ -14,7 +14,7 @@
     { "name": "第四", "url": "https://s.url99.me/mf3np7wm", "active": false },
     { "name": "金金", "url": "https://s.url99.me/52xjnf06", "active": true },
     { "name": "娜娜", "url": "https://s.url99.me/wda4fyrl", "active": true },
-    { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": true },
+    { "name": "风友", "url": "https://s.url99.me/v2dxst2y", "active": false },
     { "name": "华华", "url": "https://s.url99.me/5for0m9y", "active": true },
     { "name": "背郎", "url": "https://s.url99.me/p4fjoi8k", "active": true },
     { "name": "阿商", "url": "https://s.url99.me/0azgia7z", "active": true },
@@ -37,6 +37,7 @@
     { "name": "一千", "url": "https://s.url99.me/0e4mgnbq", "active": true }
   ]
 }
+
 
 
 
