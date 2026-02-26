@@ -14,7 +14,7 @@
     { "name": "小雪", "url": "https://s.url99.me/16p6nnau", "active": false },
     { "name": "嘉嘉", "url": "https://s.url99.me/4b4u87b5", "active": false },
     { "name": "林安安", "url": "https://s.url99.me/w8v6uwjk", "active": true },
-    { "name": "果果", "url": "https://s.url99.me/760bo6r7", "active": true },
+    { "name": "果果", "url": "https://s.url99.me/760bo6r7", "active": false },
     { "name": "小贝", "url": "https://s.url99.me/hbcc2q9v", "active": true },
     { "name": "西湖", "url": "https://s.url99.me/jxtluzfs", "active": false },
     { "name": "鹿哪", "url": "https://s.url99.me/bynr5uy5", "active": false },
@@ -37,6 +37,7 @@
     { "name": "米米", "url": "https://s.url99.me/gjy944hn", "active": false }
   ]
 }
+
 
 
 
