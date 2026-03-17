@@ -1,9 +1,9 @@
 {
   "links": [
     { "name": "阿宝", "url": "https://s.url99.me/b5tjvnw6", "active": false },
-    { "name": "小猫", "url": "https://s.url99.me/hknh68pc", "active": false },
-    { "name": "玫瑰", "url": "https://s.url99.me/dhd0o7jp", "active": false },
-    { "name": "样真", "url": "https://s.url99.me/h0aicbug", "active": false },
+    { "name": "小猫", "url": "https://s.url99.me/hknh68pc", "active": true },
+    { "name": "玫瑰", "url": "https://s.url99.me/dhd0o7jp", "active": true },
+    { "name": "样真", "url": "https://s.url99.me/h0aicbug", "active": true },
     { "name": "金福", "url": "https://s.url99.me/flchxi23", "active": false },
     { "name": "惊喜", "url": "https://s.url99.me/xtqmv06n", "active": false },
     { "name": "啊娟", "url": "https://s.url99.me/9pw0r2he", "active": false },
