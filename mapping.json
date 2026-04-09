@@ -1,6 +1,6 @@
 {
   "links": [
-    { "name": "测试1", "url": "http://konk.cc:/tgl/febTSE", "active": true },
+    { "name": "测试1", "url": "http://konk.cc:/tgl/febTSE", "active": false },
     { "name": "测试2", "url": "http://konk.cc:/tgl/tVERaJ", "active": true },
     { "name": "测试3", "url": "http://konk.cc:/tgl/B9qd5E", "active": true }
   ]
