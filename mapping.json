@@ -1,7 +1,7 @@
 {
   "links": [
     { "name": "小猫", "url": "https://s.url99.me/u77nrpdl", "active": false },
-    { "name": "青菜", "url": "https://s.url99.me/qhwy3enn", "active": true },
+    { "name": "青菜", "url": "https://s.url99.me/qhwy3enn", "active": false },
     { "name": "才一", "url": "https://s.url99.me/nqwhm5ep", "active": true },
     { "name": "明亮", "url": "https://s.url99.me/fe4h3qdn", "active": true },
     { "name": "火龙果", "url": "https://s.url99.me/1yji27zq", "active": true },
@@ -24,7 +24,7 @@
     { "name": "永明", "url": "https://s.url99.me/9dhlorzh", "active": true },
     { "name": "张云", "url": "https://s.url99.me/qpg4ahd7", "active": false },
     { "name": "小飞", "url": "https://s.url99.me/w1bb5zno", "active": true },
-    { "name": "恒蓝", "url": "https://s.url99.me/dzbyy83m", "active": true }
+    { "name": "恒蓝", "url": "https://s.url99.me/dzbyy83m", "active": false }
   ]
 }
 
