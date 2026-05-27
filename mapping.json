@@ -10,16 +10,16 @@
     { "name": "如真", "url": "https://s.url99.me/4qp088jb", "active": true },
     { "name": "利华", "url": "https://s.url99.me/0kjft6hi", "active": true },
     { "name": "花儿", "url": "https://s.url99.me/253bwxf0", "active": true },
-    { "name": "土豆", "url": "https://s.url99.me/wu24wrr2", "active": true },
+    { "name": "土豆", "url": "https://s.url99.me/wu24wrr2", "active": false },
     { "name": "建材", "url": "https://s.url99.me/w6f5edcr", "active": true },
     { "name": "小猫", "url": "https://s.url99.me/u77nrpdl", "active": true },
     { "name": "青菜", "url": "https://s.url99.me/qhwy3enn", "active": true },
-    { "name": "才一", "url": "https://s.url99.me/nqwhm5ep", "active": true },
-    { "name": "明亮", "url": "https://s.url99.me/fe4h3qdn", "active": true },
+    { "name": "才一", "url": "https://s.url99.me/nqwhm5ep", "active": false },
+    { "name": "明亮", "url": "https://s.url99.me/fe4h3qdn", "active": false },
     { "name": "火龙果", "url": "https://s.url99.me/1yji27zq", "active": true },
-    { "name": "李李", "url": "https://s.url99.me/bzp0too6", "active": true },
-    { "name": "小李", "url": "https://s.url99.me/hpj21w8q", "active": true },
-    { "name": "来顺", "url": "https://s.url99.me/kyikqvf5", "active": true }
+    { "name": "李李", "url": "https://s.url99.me/bzp0too6", "active": false },
+    { "name": "小李", "url": "https://s.url99.me/hpj21w8q", "active": false },
+    { "name": "来顺", "url": "https://s.url99.me/kyikqvf5", "active": false }
   ]
 }
 
