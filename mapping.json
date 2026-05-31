@@ -1,10 +1,9 @@
 {
   "links": [
-    { "name": "啊糖", "url": "https://s.url99.me/9mtyho2l", "active": false },
+    { "name": "啊糖", "url": "https://s.url99.me/9mtyho2l", "active": true },
     { "name": "小普", "url": "https://s.url99.me/e1011weq", "active": true },
-    { "name": "李伟", "url": "https://s.url99.me/t1k04dtu", "active": false },
     { "name": "玛噶啦", "url": "https://s.url99.me/apadmkez", "active": true },
-    { "name": "小碧", "url": "https://s.url99.me/9z99k5bs", "active": false }
+    { "name": "小碧", "url": "https://s.url99.me/9z99k5bs", "active": true }
   ]
 }
 
