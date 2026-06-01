@@ -1,8 +1,8 @@
 {
   "links": [
-    { "name": "李伟", "url": "https://s.url99.me/t1k04dtu", "active": true },
+    { "name": "李伟", "url": "https://s.url99.me/t1k04dtu", "active": false },
     { "name": "幸福", "url": "https://s.url99.me/2qciose3", "active": true },
-    { "name": "金福", "url": "https://s.url99.me/43fime4t", "active": true },
+    { "name": "金福", "url": "https://s.url99.me/43fime4t", "active": false },
     { "name": "张安", "url": "https://s.url99.me/87aaph4h", "active": true }
   ]
 }
