@@ -1,10 +1,10 @@
 {
   "links": [
     { "name": "嘉明", "url": "https://s.url99.me/as1govc8", "active": true },
-    { "name": "诺诺", "url": "https://s.url99.me/ibm6rei8", "active": true },
+    { "name": "诺诺", "url": "https://s.url99.me/ibm6rei8", "active": false },
     { "name": "永明", "url": "https://s.url99.me/ks68l4ll", "active": false },
     { "name": "似乎", "url": "https://s.url99.me/3avqec4g", "active": false },
-    { "name": "土豆", "url": "https://s.url99.me/r8cn49xq", "active": true },
+    { "name": "土豆", "url": "https://s.url99.me/r8cn49xq", "active": false },
     { "name": "小五", "url": "https://s.url99.me/v927q8jw", "active": false },
     { "name": "老汪", "url": "https://s.url99.me/kej89w3v", "active": false }
   ]
