@@ -1,8 +1,8 @@
 {
   "links": [
-    { "name": "啊抗", "url": "https://s.url99.me/0435kosr", "active": true },
-    { "name": "布纳里", "url": "https://s.url99.me/cq26cdfd", "active": true },
-    { "name": "啊努", "url": "https://s.url99.me/qa5u5hrp", "active": true },
+    { "name": "啊抗", "url": "https://s.url99.me/0435kosr", "active": false },
+    { "name": "布纳里", "url": "https://s.url99.me/cq26cdfd", "active": false },
+    { "name": "啊努", "url": "https://s.url99.me/qa5u5hrp", "active": false },
     { "name": "东里", "url": "https://s.url99.me/pcn6sske", "active": true }
   ]
 }
