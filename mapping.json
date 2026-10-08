@@ -1,9 +1,7 @@
 {
   "links": [
-    {"name":"提卡","url":"https://s.url99.me/ahu64v90","active":false},
-    {"name":"阿宝","url":"https://s.url99.me/lijlww3x","active":true},
-    {"name":"李李","url":"https://s.url99.me/t08b1eg4","active":false},
-    {"name":"测试7","url":"https://s.url99.me/mz8b01xa","active":true},
-    {"name":"测试8","url":"https://s.url99.me/yyb4s56l","active":false}
+    { "name": "提卡", "url": "https://s.url99.me/ahu64v90", "active": true },
+    { "name": "阿宝", "url": "https://s.url99.me/lijlww3x", "active": true },
+    { "name": "李李", "url": "https://s.url99.me/t08b1eg4", "active": true }
   ]
 }
